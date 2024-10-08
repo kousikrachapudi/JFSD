@@ -1,49 +1,55 @@
-Tribe Cart: E-Commerce Website for Handcrafted Products and Tribal Stories
-Tribe Cart
-<span style="color:blue">This website is built with the following purposes in mind:</span>
+Here's the revised version with the correct name, "TribeMart":
 
-To sell handcrafted tribal products online
-To share stories and traditions of various tribes
-To maintain sales history of tribal products
-To manage product inventory and categories
-To create a user-friendly experience for buyers
-To implement Generic Servlets in Java as part of a mini-project
-<span style="color:blue">Admin Features:</span>
+# TribeMart: E-Commerce Website for Handcrafted Products and Tribal Stories
 
-Add New Handcrafted Products
-Add New Product Categories (e.g., by tribe or type of craft)
-View Available Tribal Products
-Manage Users and View Current Customers
-Manage Categories
-Remove Products
-<span style="color:blue">User Features:</span>
+### TribeMart
+<span style="color:blue">**This website is built for the following purposes:**</span>
+- To buy handcrafted tribal products online
+- To maintain sales history of tribal products
+- To add and manage handcrafted products easily
+- To provide a user-friendly interface
+- To demonstrate the use of Generic Servlets in Java
+- This is a mini-project developed using Java, JDBC, Bootstrap.
 
-Create a New Account or Register
-Login to Explore Tribal Products
-Browse Available Handcrafted Items
-Select Products and Quantities to Buy
-Add Items to Cart
-Checkout with the Selected Products
-Read Stories about the Tribes behind the Products
-Technologies Used:
-Front-End Development:
+<span style="color:blue">**Admin Features in TribeMart:**</span>
+- Add New Handcrafted Products
+- Add New Product Categories
+- View Available Products
+- View Current Users
+- Manage Categories
+- Remove Products
 
-HTML
-CSS
-JavaScript
-Bootstrap 4
-Back-End Development:
+<span style="color:blue">**User Features in TribeMart:**</span>
+- Create a New Account or Register
+- Login to the Platform
+- View Available Products
+- Select Products to Buy
+- Choose Product Quantities
+- Add Items to Cart
+- Proceed to Checkout
 
-Java
-JDBC
-Servlets
-Hibernate
-Maven Support
-Database:
+### Technologies Used:
+1. **Front-End Development:**
+   - HTML
+   - CSS
+   - JavaScript
+   - Bootstrap 4
 
-SQL/MySQL
+2. **Back-End Development:**
+   - Java
+   - JDBC
+   - Servlet
+   - Hibernate
+   - Maven Support
 
-Suggestions and improvements are welcome!
-Thank you,
-Project Creator
-<b>dama karthik</b>
+3. **Database:**
+   - SQL/MySQL
+<h1>This is Admin Page</h1>
+<img src="project images/admin page.png">
+
+
+<h1>This is Login Page</h1>
+<img src="project images/login page.png">
+
+<h1>This is Register Page</h1>
+<img src="project images/register page.png">
