@@ -1,65 +1,49 @@
-# E-Commerce Website Using Java 
-### E-Commerce
-<span style="color:blue">**This Website is built for following purpose:-**</span>
-- For buying product online
-- Maintaining sale history
-- Adding and managing products
-- User Friendly
-- For Implemention of Generic Servlets in Java
-- This is a Mini-project developed using Java, Jdbc, Bootstrap. 
+Tribe Cart: E-Commerce Website for Handcrafted Products and Tribal Stories
+Tribe Cart
+<span style="color:blue">This website is built with the following purposes in mind:</span>
 
-<span style="color:blue">**Admin Have Following Access for this E-Commerce website:-**</span>
-- Add New Products
-- Add New Category
-- View Available Products
-- View Current Users
-- View Category
-- Remove Products
+To sell handcrafted tribal products online
+To share stories and traditions of various tribes
+To maintain sales history of tribal products
+To manage product inventory and categories
+To create a user-friendly experience for buyers
+To implement Generic Servlets in Java as part of a mini-project
+<span style="color:blue">Admin Features:</span>
 
-<span style="color:blue">**Users Have Following Access for this E-Commerce website:-**</span>
-- Create New Account or Register
-- Login
-- View Available Products
-- Select Product to Buy
-- Select Product Quantity
-- Add To cart
-- Go to Checkout Page
+Add New Handcrafted Products
+Add New Product Categories (e.g., by tribe or type of craft)
+View Available Tribal Products
+Manage Users and View Current Customers
+Manage Categories
+Remove Products
+<span style="color:blue">User Features:</span>
 
-### Technologies used:-
-1. Front-End Development:
-- Html
-- Css
-- Javascript
-- Bootstrap 4
+Create a New Account or Register
+Login to Explore Tribal Products
+Browse Available Handcrafted Items
+Select Products and Quantities to Buy
+Add Items to Cart
+Checkout with the Selected Products
+Read Stories about the Tribes behind the Products
+Technologies Used:
+Front-End Development:
 
-2. Back-End Development
-- Java
-- JDBC
-- Servlet
-- Hibernate
-- Maven Support
+HTML
+CSS
+JavaScript
+Bootstrap 4
+Back-End Development:
 
-3. Database used
-- Sql/MySql
+Java
+JDBC
+Servlets
+Hibernate
+Maven Support
+Database:
 
+SQL/MySQL
 
-Note:- This is a basic Project so we have not think about the security and we have only implemented this project using the generic servlet
-
-#### "Suggestions and project Improvements are Invited!"
-
-<bold>Thanks a lot</bold><br/>
-                                                                                                        Project Creator<br/>
-                                                                                                         <b>Harshit Shakya</b>
-                                                                                                         
-
-<h1>This is Admin Page</h1>
-<img src="project images/admin page.png">
-
-
-<h1>This is Login Page</h1>
-<img src="project images/login page.png">
-
-<h1>This is Register Page</h1>
-<img src="project images/register page.png">
-
-
+Suggestions and improvements are welcome!
+Thank you,
+Project Creator
+<b>dama karthik</b>
