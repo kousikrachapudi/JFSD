@@ -1,6 +1,6 @@
 Here's the revised version with the correct name, "TribeMart":
 
-# TribeMart: E-Commerce Website for Handcrafted Products and Tribal Stories
+# TribeMart: E-Commerce Website for Handicraft Products and Tribal Stories
 
 ### TribeMart
 <span style="color:blue">**This website is built for the following purposes:**</span>
