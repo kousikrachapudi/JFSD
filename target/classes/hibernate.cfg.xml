@@ -3,6 +3,7 @@
 "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
 
 
+
 <hibernate-configuration>
     <session-factory>
     <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
